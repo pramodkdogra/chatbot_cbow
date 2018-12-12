@@ -1,0 +1,32 @@
+{"intents": [       
+        {"tag": "cannabis",
+         "patterns": ["What is Cannabis?","Can you tell me about Cannabis?","Tell me more on Cannabis?","Give me some information on Cannabis?","What do you know about Cannabis?"],
+          "responses": "Cannabis is a tall plant with a stiff upright stem, divided serrated leaves, and glandular hairs. It is used to produce hemp fiber and as a psychotropic drug.From this plant a dried preparation of the flowering tops or other parts of this plant or a resinous extract of it ( cannabis resin ), used (generally illegally) as a psychotropic drug, chiefly in cigarettes.Cannabis is a depressant drug. Depressant drugs do not necessarily make you feel depressed. Rather, they slow down the activity of the central nervous system and the messages going between the brain and the body. When large doses of cannabis are taken it may also produce hallucinogenic effects."
+        },
+        {
+         "tag": "cannabisnames",
+         "patterns": ["What are the common names for Cannabis?", "How many other names are there for Cannabis?", "With how many other names Cannabis is known?"],
+         "responses": "Other Names for Cannabis include as marijuana, grass, pot, dope, Mary Jane, hooch, weed, hash, joints, brew, reefers, cones, smoke, mull, buddha, ganga, hydro, yarndi, heads and green."
+        },
+        {
+         "tag":"activeingredient",
+         "patterns": ["What is the active ingredient of Cannabis?","What does Cannabis contain?","Can you tell me what it contains?","What is Cannabis made of ?"],
+         "responses":  "The main active ingredient in cannabis is called delta-9 tetrahydro-cannabinol, commonly known as THC. This is the part of the plant that gives the \"high.\" There is a wide range of THC potency between cannabis products."
+        },
+       {
+        "tag": "thccbd",
+        "patterns": ["How is THC different from CBD?","How can you tell THC apart from CBD ?","Differentiate THC and CBD ?"," How do I know the difference between THC and CBD ?"],
+         "responses": "Cannabis plants containing small amounts of CBD and high levels of THC result in a stronger ‘stoned’ feeling, while plants with more CBD and less THC create a weaker, more relaxed, effect. Both THC and CBD are the two primary cannabinoids that occur naturally in the Cannabis sativa plant, most commonly known as cannabis.These substances interact with the cannabinoid receptors in the human body and brain, but they differ in their effects. THC is an illegal drug with considerable immediate and long-term cognitive side effects. These include impaired thinking and reasoning, a reduced ability to plan and organize, altered decision-making, and reduced control over impulses.Also, chronic use of THC correlates with significant abnormalities in the heart and brain.CBD lacks the harmful cognitive effects of THC. In fact, CBD can counteract the psychoactive effects of THC. CBD may be better for inflammation and neuropathic pain, while THC may excel with spasticity and cramp-related pain."
+       },
+       {
+         "tag": "thc",
+          "patterns": ["What is THC?","Tell me about THC?"," Describe THC ?","Do you know anything about THC ?", "Enlignten me about THC?"],
+          "responses": "THC stands for tetrahydrocannabinol. THC is the psychoactive ingredient in marijuana that produces the feeling of being high. THC is responsible for the way your brain and body respond to cannabis, including the high and intoxication. THC has some therapeutic effects but it also has harmful effects. Harmful effects may be greater when the strength of THC is higher.The THC in cannabis is absorbed into the bloodstream through the walls of the lungs (if smoked), or through the walls of the stomach and intestines (if eaten). The bloodstream carries the THC to the brain, producing the “high” effects. Drugs inhaled get into the bloodstream quicker than those eaten. This means that the effects of cannabis when smoked occur more rapidly than when eaten. "
+        },
+        {
+          "tag": "cbd",
+          "patterns": ["What is CBD?", "Tell me about CBD?", "Describe CBD ?","Do you know anything about CBD ?","Enlignten me about CBD?"],
+          "responses": "CBD is a Cannabidiol. CBD is a cannabis compound that has significant medical benefits, but does not make people feel 'stoned' and can actually counteract the psychoactivity of THC. "
+        }
+   ]
+}
